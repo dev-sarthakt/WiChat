@@ -6,7 +6,7 @@ No server. No database. Just two machines, one TCP connection, and pure vibes.
 
 ## Features
 
-Direct P2P connection (no central server)
+Direct P2P connection (no central server).
 Multithreaded I/O
 Message timestamps
 Username exchange on connect
